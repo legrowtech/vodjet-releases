@@ -132,7 +132,7 @@ If you use VODJet in tutorials, demos, or tool‑roundups, you are welcome to:
 
 ## Related links
 
-- 📄 **Main site:** [https://vodjet.com(https://vodjet.com)  
+- 📄 **Main site:** [https://vodjet.com](https://vodjet.com)  
 - ⬇️ **Download page:** [https://vodjet.com/download](https://vodjet.com/download)  
 - 📏 **System requirements:** [https://vodjet.com/system-requirements](https://vodjet.com/system-requirements)  
-- ❓ **FAQ & support:** [https://vodjet.com(https://vodjet.com) 
+- ❓ **FAQ & support:** [https://vodjet.com](https://vodjet.com) 
